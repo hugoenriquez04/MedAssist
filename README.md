@@ -104,6 +104,4 @@ Clinical datasets, local databases, generated reports, and environment files are
 
 The application is intended for demonstration and educational purposes only. It must not be used for real medical diagnosis, treatment decisions, or clinical care.
 
-## License
 
-No license has been selected for this project yet.
